@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="CircuitBoard">
+        <attr name="gateSize" format="float" />
+        <attr name="gateMargin" format="float" />
+        <attr name="textXDistance" format="float" />
+        <attr name="textYDistance" format="float" />
+    </declare-styleable>
+</resources>
